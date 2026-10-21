@@ -89,14 +89,7 @@ Un site e-commerce développé en **PHP** et **MySQL**, permettant aux utilisate
 
 ---
 
-## 🔑 Compte de test
 
-| Rôle | Email | Mot de passe |
-|---|---|---|
-| Admin | admin@example.com | admin123 |
-| Utilisateur | user@example.com | user123 |
-
-> ⚠️ Change ces identifiants avant toute mise en production.
 
 ---
 
