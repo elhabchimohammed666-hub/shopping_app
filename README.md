@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # 🛒 E-Commerce PHP
 
 Un site e-commerce développé en **PHP** et **MySQL**, permettant aux utilisateurs de parcourir des produits, de les ajouter au panier et de passer commande. Un espace administrateur permet de gérer le catalogue.
