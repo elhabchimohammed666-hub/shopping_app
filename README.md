@@ -12,10 +12,6 @@ Un site e-commerce développé en **PHP** et **MySQL**, permettant aux utilisate
 
 ---
 
-## 📸 Aperçu
-
-![Page d'accueil](image/screenshot-home.png)
-
 ---
 
 ## ✨ Fonctionnalités
